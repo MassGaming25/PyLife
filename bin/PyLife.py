@@ -12,6 +12,7 @@ import datetime
 from print_color import print
 # local imports
 import config
+import game
 
 
 while True:    
@@ -55,7 +56,7 @@ while True:
             exit()
 
 if choice == 1:
-    print('WIP', color='yellow')
+    game.playGame()
 elif choice == 2:
     print('WIP', color='yellow')
 elif choice == 3:
