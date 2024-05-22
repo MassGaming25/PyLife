@@ -1,12 +1,9 @@
 import mysql.connector
 
-import mysql.connector
 
 mydb = mysql.connector.connect(
-  host="localhost",
-  user="root",
-  password="Lolpower123*",
-  database="pylife"
+  host="IP ADDRESS",
+  user="USERNAME",
+  password="PASSWORD",
+  database="DB NAME"
 )
-
-print(mydb)
