@@ -6,7 +6,9 @@ Be sure to check the wiki pages for more information about mechanics and more!
 Version 0.1-ALPHA | 22-5-2024
 
 **Change notes**
+
 Additions:
+   
     - Game is now playable
 
     - Added event types:
