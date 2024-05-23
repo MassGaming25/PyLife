@@ -3,7 +3,7 @@ USE pylife
 
 CREATE TABLE pysims (
     sim_id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(10) NOT NULL,
+    name VARCHAR(10) NOT NULL PRIMARY KEY,
     age INT NOT NULL,
     occupation VARCHAR(30),
     gender INT NOT NULL,

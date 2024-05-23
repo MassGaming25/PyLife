@@ -8,19 +8,33 @@ Version 0.1-ALPHA | 22-5-2024
 **Change notes**
 Additions:
     - Game is now playable
+
     - Added event types:
+
         - Regular
+
         - Friendship
+
         - Carreer
+
         - Romance
+
         - Death
-    - Added child event types:  
+
+    - Added child event types:
+
         - Regular
+
         - Friendship
+
         - School
+
     - Added player abilities:
+
         - Create Pysims
+
         - Kill Pysims
+        
     - Added the ability to enable accident mode (enables Pysims to die of an accident 1-1000000000 chance) (Disabled by default)
 
 **Current known issues**

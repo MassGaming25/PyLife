@@ -237,7 +237,7 @@ def birth(simName):
                         name = str(input('Name their daughter:\n'))
                         addSim(name, 0, 'female')
             else:
-                print(f'{simName} does not have a valid partner in the database.', tag='Error', color='red')
+                print(f'{simName} does not have a valid partner.', tag='Error', color='red')
         else:
             print(f'{simName} is not married and cannot have children.', tag='Birth', tag_color='cyan', color='white')
 
